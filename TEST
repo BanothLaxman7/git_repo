@@ -4,3 +4,4 @@ git commit -m <MESSAGE>
 
 git checkout -b <branch_name>
 git log --oneline
+git status .
